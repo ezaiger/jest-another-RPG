@@ -1,0 +1,31 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "command line RPG",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezaiger/jest-another-RPG.git"
+  },
+  "keywords": [
+    "rpg",
+    "javascript",
+    "tdd",
+    "oop"
+  ],
+  "author": "EZaiger, bootcampspot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezaiger/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/ezaiger/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
